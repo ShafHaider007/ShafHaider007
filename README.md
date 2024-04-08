@@ -1,10 +1,10 @@
 <h1 align="left">Hey there! 👋</h1>
 
-<p align="left">I'm Shaf Haider, a passionate GIS Developer hailing from Islamabad, Pakistan.</p>
+<p align="left">My name is Shaf Haider and I'm a GIS Developer, from Islamabad(Pakistan).</p>
 
 <h2 align="left">About Me</h2>
 
-<p align="left">✨ Crafting spatial solutions since 2021<br>📚 Currently delving into Web Development & Deep Learning<br>🎯 Goal: Embark on a journey towards successful entrepreneurship<br>🎲 Fun fact: Don't let appearances fool you, there's always more beneath the surface!</p>
+<p align="left">✨ Creating spatial solutions since 2021<br>📚 I'm currently learning Web Development & Deep Learning<br>🎯 Goals: To become a successful Entrepreneur:)<br>🎲 Fun fact: Appearances are often deceptive:(</p>
 
 <h2 align="left">My Tech Stack</h2>
 
