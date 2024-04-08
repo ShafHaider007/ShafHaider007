@@ -1,91 +1,22 @@
-# GIS Developer Profile
+<h1 align="left">Hey 👋 What's up?</h1>
 
-![GIS Developer](https://yourimageurl.com/yourimage.jpg)
+<p align="left">My name is [Your Name] and I'm a GIS Developer, from [Your Location].</p>
 
-Welcome to my GitHub profile! I'm passionate about GIS development and bringing spatial solutions to life.
+<h2 align="left">About Me</h2>
 
-## About Me
+<p align="left">✨ Creating spatial solutions since [Year]<br>📚 I'm currently learning [Current Learning Goal]<br>🎯 Goals: [Your Goals]<br>🎲 Fun fact: [Fun Fact]</p>
 
-I possess a diverse set of skills and expertise that can help clients with their GIS-related projects. As a GIS Developer, I have experience in analyzing, developing, and programming GIS projects to deliver tailored solutions for your needs.
+<h2 align="left">I Code With</h2>
 
-## Toolkit
-
-### Front-end
-
-- React
-- React-Native
-- Node.js
-- Figma
-- PHP
-- HTML
-- ASP.Net
-- JavaScript
-- CSS
-- jQuery
-
-### Tech Stack
-
-- OpenLayers
-- Mapbox
-- Leaflet
-- Chart.js
-- MapWinGIS
-- DotSpatial
-
-### Versioning
-
-- ![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen)
-- ![GitLab](https://img.shields.io/badge/GitLab-Profile-orange)
-- ![BitBucket](https://img.shields.io/badge/BitBucket-Profile-blue)
-- ![Jira](https://img.shields.io/badge/Jira-Profile-yellow)
-
-### Tools
-
-- Python
-- ESRI Web Services
-- Geoserver
-- Clustered Geoserver
-- PostgreSQL + PostGIS
-- MySQL
-- GeoNode
-- Cesium
-- ArcMap
-- ArcGIS Engine
-- Mapproxy
-- TileCache
-
-## Skills
-
-- SLD Styling
-- OGC Services (WFS-T, WFS, WMS & WMC)
-
-## What I Do
-
-I handle a variety of everyday GIS tasks, including:
-
-1. Developing Web Mapping/GIS Applications for building information/mapping and disaster risk assessment.
-2. Feature Extraction (Digitizing Buildings, Roads, Trees, etc.) and Administrative Quality Control for large areas.
-3. Preparing cartographic/thematic maps.
-4. Utilizing Remote Sensing techniques for image enhancement and feature extraction.
-
-Let's collaborate to bring your GIS projects to life! Feel free to reach out.
-
-![GIS Development GIF](https://yourgifurl.com/yourgif.gif)
-
-## Projects
-
-### GIS Application Example
-
-![GIS Application Screenshot](https://yourimageurl.com/gisapplication.jpg)
-
-### Chart Visualization
-
-![Chart Visualization](https://yourimageurl.com/chart.png)
-
-## Let's Connect
-
-Interested in leveraging GIS for your projects? Let's collaborate! Feel free to reach out.
-
----
-*Contact me: [Your Contact Information]*
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"  />
+</div>
 
