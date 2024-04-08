@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey there! 👋</h1>
 
-<p align="left">My name is [Your Name] and I'm a GIS Developer, from [Your Location].</p>
+<p align="left">I'm Shaf Haider, a passionate GIS Developer hailing from Islamabad, Pakistan.</p>
 
 <h2 align="left">About Me</h2>
 
-<p align="left">✨ Creating spatial solutions since [Year]<br>📚 I'm currently learning [Current Learning Goal]<br>🎯 Goals: [Your Goals]<br>🎲 Fun fact: [Fun Fact]</p>
+<p align="left">✨ Crafting spatial solutions since 2021<br>📚 Currently delving into Web Development & Deep Learning<br>🎯 Goal: Embark on a journey towards successful entrepreneurship<br>🎲 Fun fact: Don't let appearances fool you, there's always more beneath the surface!</p>
 
-<h2 align="left">I Code With</h2>
+<h2 align="left">My Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"  />
@@ -19,4 +19,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"  />
 </div>
-
