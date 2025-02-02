@@ -72,9 +72,7 @@
 
 ## 📚 Latest Blog Posts
 
-- [**Understanding Spatial Data in Python**](https://yourblog.com/spatial-data-python)
-- [**Web Mapping with React and Leaflet**](https://yourblog.com/web-mapping-react-leaflet)
-- [**Deep Learning Applications in GIS**](https://yourblog.com/deep-learning-gis)
+Hopefully one day...
 
 ---
 
